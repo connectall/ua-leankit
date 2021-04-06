@@ -1,0 +1,1666 @@
+{
+    "cards": [
+      {
+        "assignedUsers": [],
+        "id": "1551671217",
+        "index": 1,
+        "version": "2",
+        "title": "Postman API card",
+        "description": null,
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": null,
+        "createdOn": "2021-04-02T23:23:10Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T23:39:36Z",
+        "movedOn": "2021-04-02T23:23:10Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": null,
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614593",
+          "index": 0,
+          "laneClassType": "backlog",
+          "laneType": "ready",
+          "orientation": "vertical",
+          "title": "New Requests",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": {
+          "totalCount": 3,
+          "completedCount": 0,
+          "totalSize": 3,
+          "completedSize": 0
+        }
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551614613",
+        "index": 4,
+        "version": "6",
+        "title": "Build a new App",
+        "description": null,
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": "2021-04-02T22:57:20Z",
+        "actualStart": "2021-04-02T22:56:47Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:57:20Z",
+        "movedOn": "2021-04-02T22:57:20Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#93E0E6",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": null,
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614612",
+          "index": 3,
+          "laneClassType": "active",
+          "laneType": "completed",
+          "orientation": "vertical",
+          "title": "Recently Finished",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614580",
+          "title": "New Feature",
+          "cardColor": "#93E0E6"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551614616",
+        "index": 0,
+        "version": "3",
+        "title": "This is where new cards are created by default",
+        "description": "<p>This card has been created in LeanKit's <strong>Defaiult Drop Lane</strong>. This lane has a special icon, telling users that this is where new cards go by default. </p>\n<p>Cards moved from other LeanKit <strong>boards</strong> will appear here, as well as cards created via email. </p>\n<p>Go ahead and try creating a card via email now! Just hover over the <strong>Default Drop Lane</strong> icon with your cursor and send an email to the address that appears.</p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": null,
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:57:09Z",
+        "movedOn": "2021-04-02T22:57:09Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Click for more info",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614593",
+          "index": 0,
+          "laneClassType": "backlog",
+          "laneType": "ready",
+          "orientation": "vertical",
+          "title": "New Requests",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [
+          {
+            "id": "1551294979",
+            "fullName": "Sharath Bhaskara",
+            "emailAddress": "sbhaskara@connectall.com",
+            "avatar": "https://sbhaskara-ca.leankit.com/avatar/Show/1551294979?s=25"
+          }
+        ],
+        "id": "1551614615",
+        "index": 0,
+        "version": "14",
+        "title": "Update our logo.",
+        "description": "<p>This card is green. That's not because it's feeling squeamish.</p>\n<p>That means that it's an \"improvement\" card. Click the <strong>Card Type</strong> drop-down menu to see what other types of cards are on this board. </p>\n<p>You can add, change or remove <strong>Card Types. </strong><a href=\"https://success.planview.com/Planview_LeanKit/Cards/Card_Details/Configure_Card_Types\">Click here to learn more</a><strong><br /></strong></p>",
+        "priority": "critical",
+        "size": 9,
+        "plannedStart": "2021-04-02",
+        "plannedFinish": "2021-04-03",
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:56:40Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:57:00Z",
+        "movedOn": "2021-04-02T22:57:00Z",
+        "tags": [
+          "CA",
+          "TEST",
+          "DEMO"
+        ],
+        "containingCardId": null,
+        "color": "#D6FA98",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": true,
+          "reason": "Blocked",
+          "date": "2021-04-02T22:53:22Z"
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Update ConnectALL LOGO",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [
+          {
+            "label": "",
+            "url": "http://google.com?q=sharath+bhaskara"
+          }
+        ],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614610",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614581",
+          "title": "Improvement",
+          "cardColor": "#D6FA98"
+        },
+        "taskBoardStats": {
+          "totalCount": 3,
+          "completedCount": 1,
+          "totalSize": 3,
+          "completedSize": 1
+        }
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669572",
+        "index": 1,
+        "version": "3",
+        "title": "Come up with a schedule for App rollout",
+        "description": "<p>We need to schedule this card!</p>\n<p>Use the dates right on this card by selecting a <strong>Planned Start</strong> and <strong>Planned Finish</strong> date. </p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:56:59Z",
+        "movedOn": "2021-04-02T22:56:59Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FDD29A",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Schedule me!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614610",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614586",
+          "title": "Risk / Issue",
+          "cardColor": "#FDD29A"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551614614",
+        "index": 3,
+        "version": "6",
+        "title": "Build a new Website",
+        "description": "<p>You can assign users to a card. </p>\n<p>To do this, click the <strong>Assigned Users</strong> link on the left navigation menu. </p>\n<p>If you haven't already done so, <a href=\"https://success.planview.com/Planview_LeanKit/Account/User_Administration/Create_or_Add_a_User\">add a few more users.</a></p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:56:49Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:56:49Z",
+        "movedOn": "2021-04-02T22:56:49Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#93E0E6",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Assign a User!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614609",
+          "index": 1,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "In Progress",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614580",
+          "title": "New Feature",
+          "cardColor": "#93E0E6"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669880",
+        "index": 2,
+        "version": "6",
+        "title": "Cutomization of ConnectALL Organization",
+        "description": null,
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:56:45Z",
+        "createdOn": "2021-04-02T22:55:43Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:56:45Z",
+        "movedOn": "2021-04-02T22:56:45Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#93E0E6",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": null,
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614609",
+          "index": 1,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "In Progress",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614580",
+          "title": "New Feature",
+          "cardColor": "#93E0E6"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551661065",
+        "index": 1,
+        "version": "7",
+        "title": "Demo of Leankit",
+        "description": null,
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:56:43Z",
+        "createdOn": "2021-04-02T22:51:15Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:56:43Z",
+        "movedOn": "2021-04-02T22:56:43Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": null,
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614609",
+          "index": 1,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "In Progress",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669573",
+        "index": 0,
+        "version": "4",
+        "title": "Q1 Sales Metrics",
+        "description": "<p>You can attach documents, graphs, spreadsheets and any other kind of file, by simply dragging and dropping. </p>\n<p>Click the <strong>Attachments</strong> link on the left navigation menu, to open up the attachments window. </p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FDD29A",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Attach a Report!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614609",
+          "index": 1,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "In Progress",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614586",
+          "title": "Risk / Issue",
+          "cardColor": "#FDD29A"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669574",
+        "index": 2,
+        "version": "3",
+        "title": "Update the company handbook",
+        "description": "<p>This is a low-priority task. </p>\n<p>You can visually show the priority of a task on a card by selecting a priority from the drop-down menu on the right. </p>\n<p>Set this card's priority to <strong>low</strong>, and then save your changes. </p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#C3D9E8",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Change my Priority!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614610",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614583",
+          "title": "Documentation",
+          "cardColor": "#C3D9E8"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669575",
+        "index": 3,
+        "version": "3",
+        "title": "Learn about the competition",
+        "description": "<p>Let's break this work down into more detailed <strong>Tasks.</strong></p>\n<p>You can add sub-tasks by clicking<strong> <strong>Tasks</strong></strong> in the navigation menu, on the left.</p>\n<p><a href=\"https://success.planview.com/Planview_LeanKit/Cards/Managing_Cards/Taskboards\">Learn more about Taskboards here.</a></p>\n<p>When you're done, you can drag this card out of the <strong>Ready to Start</strong> lane, and into <strong>In Progress</strong>.</p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FDD29A",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Break this down!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614610",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614586",
+          "title": "Risk / Issue",
+          "cardColor": "#FDD29A"
+        },
+        "taskBoardStats": {
+          "totalCount": 1,
+          "completedCount": 0,
+          "totalSize": 1,
+          "completedSize": 0
+        }
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669576",
+        "index": 0,
+        "version": "1",
+        "title": "Cards on this board move from left to right, as work is done",
+        "description": null,
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Read Me First",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614611",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "horizontal",
+          "title": "Expedite these things!",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669577",
+        "index": 1,
+        "version": "1",
+        "title": "Updating work is just as easy as clicking and dragging. Try it!",
+        "description": null,
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Read Me First",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614611",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "horizontal",
+          "title": "Expedite these things!",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669578",
+        "index": 2,
+        "version": "1",
+        "title": "Click the '+' or '-' icons at the top of each LeanKit lane to expand or collapse.",
+        "description": "<p>Open the \"Future Work\" lane, on the left, now!</p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Read Me First",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614611",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "horizontal",
+          "title": "Expedite these things!",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551614617",
+        "index": 0,
+        "version": "1",
+        "title": "Write a new Blog post",
+        "description": "<p>Ever wonder how to get notified if a card is done?</p>\n<p>In LeanKit you can subscribe to either a <strong>Card</strong>, or to a <strong>Lane. </strong></p>\n<p>You can <strong>subscribe to a </strong><strong>Card</strong> by clicking the empty check-box at the bottom of this card's menu. You'll recieve email anytime someone changes anything about this card. </p>\n<p>You can also <strong>subscribe to a Lane</strong>, by right-clicking on any <strong>Lane Header</strong> and choosing to subscribe to that lane. You'll recieve an email any time a card move into, out of, or changes inside that lane. </p>\n<p>If you want to get really adventurous, you can even <strong>subscribe to a whole Board</strong>. You'll get notified anytime someone changes a card anywhere on the board. Do this by clicking the settings icon at the top right-hand corner, and choosing Subscribe from the menu. </p>\n<p><a href=\"https://success.planview.com/Planview_LeanKit/Boards/Managing_Boards/Subscribe%2F%2FUnsubscribe_to_Board_and_Lane_Events\">Read more about subscriptions here, </a></p>\n<p><a href=\"https://success.planview.com/Planview_LeanKit/Boards/Managing_Boards/Subscribe%2F%2FUnsubscribe_to_Board_and_Lane_Events\"> </a></p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#C3D9E8",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Subscribe to me!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614600",
+          "index": 2,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready for Review",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614583",
+          "title": "Documentation",
+          "cardColor": "#C3D9E8"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551614618",
+        "index": 0,
+        "version": "1",
+        "title": "Update the Knowledge Base",
+        "description": "<p>Add some <strong>tags</strong> to this card.</p>\n<p><strong>Tags</strong> can be used to group cards together for any reason. You can even search or filter by tags later. </p>\n<p>Once you use a tag once, you'll see that tag auto-complete from that point on. </p>\n<p><a href=\"https://success.planview.com/Planview_LeanKit/Cards/Managing_Cards/Filter_Cards_on_a_Board\">Read more about <strong>Tags</strong> here:</a></p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#C3D9E8",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Add some tags!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614601",
+          "index": 1,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "In Progress",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614583",
+          "title": "Documentation",
+          "cardColor": "#C3D9E8"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551614619",
+        "index": 1,
+        "version": "1",
+        "title": "Calendar doesn't look right in IE11",
+        "description": null,
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FE7676",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Issue #987342",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614601",
+          "index": 1,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "In Progress",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614584",
+          "title": "Defect",
+          "cardColor": "#FE7676"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551614620",
+        "index": 0,
+        "version": "1",
+        "title": "Woah! Red's not good!",
+        "description": "<p>Red cards are a great way to show issues on a LeanKit board.</p>\n<p>You'll notice this lane is also red. That's because we've violated the support team's WIP (Work In Progress) limit. <a href=\"https://success.planview.com/Planview_LeanKit/Boards/Managing_Boards/Set_Work-In-Process_(WIP)_Limits\">Read more here.</a></p>\n<p>Help this team out by dragging a card into <strong>Ready for Review.</strong></p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Help this team!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 4,
+          "description": null,
+          "id": "1551614602",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669565",
+        "index": 1,
+        "version": "1",
+        "title": "Chris is having issues logging in on iPhone",
+        "description": null,
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FE7676",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Issue #987343",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 4,
+          "description": null,
+          "id": "1551614602",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614584",
+          "title": "Defect",
+          "cardColor": "#FE7676"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669566",
+        "index": 2,
+        "version": "1",
+        "title": "Kelly's phone is frequently dropping calls",
+        "description": null,
+        "priority": "low",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FE7676",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Issue #987345",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 4,
+          "description": null,
+          "id": "1551614602",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614584",
+          "title": "Defect",
+          "cardColor": "#FE7676"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669567",
+        "index": 3,
+        "version": "1",
+        "title": "Connection is really slow though the company VPN",
+        "description": null,
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FE7676",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Issue #987344",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 4,
+          "description": null,
+          "id": "1551614602",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614584",
+          "title": "Defect",
+          "cardColor": "#FE7676"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669568",
+        "index": 4,
+        "version": "1",
+        "title": ".",
+        "description": "<p>You've found it! Great job using LeanKit's filter!</p>\n<p>Blocked cards have a red stop-sign to indicate there's a problem. </p>\n<p>Now that you've identified it, clicked the <strong>Blocked</strong> button and (optionally) give a reason to <strong>un-block</strong> this card. </p>",
+        "priority": "critical",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FE7676",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": true,
+          "reason": "A HUGE problem",
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Nothing to see here",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 4,
+          "description": null,
+          "id": "1551614602",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614584",
+          "title": "Defect",
+          "cardColor": "#FE7676"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669569",
+        "index": 0,
+        "version": "1",
+        "title": "API Improvements",
+        "description": "<p>You can leave comments on a card so everyone knows what's going on.</p>\n<p>Try leaving a comment on this card for everyone to see. </p>\n<p>Pro Tip: You can <a href=\"https://success.planview.com/Planview_LeanKit/Cards/Managing_Cards/@mentions\">@mention users in comments</a> or in this description. Have you <a href=\"https://success.planview.com/Planview_LeanKit/FAQs/Account_Questions/How_do_I_Invite_Others_to_Join_My_LeanKit_Account%3F\">added other users yet</a>? You can do that by clicking the \"User\" icon on the top navigation menu.</p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#D6FA98",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Add comments!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614605",
+          "index": 1,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "In Progress",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614581",
+          "title": "Improvement",
+          "cardColor": "#D6FA98"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669570",
+        "index": 0,
+        "version": "1",
+        "title": "Let's give our Dev team some more work",
+        "description": "<p>You can add cards to a LeanKit board many different ways. </p>\n<p>You can click the <strong>\"Quick Add</strong>\" icon, on the top right of any board.</p>\n<p>You can right-click any <strong>lane</strong> to add a new card.</p>\n<p>You can even email a card to the board. Have you opened up the \"Future Work\" lane yet? There's a hint in there :)</p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Create some cards!",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614606",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669571",
+        "index": 1,
+        "version": "1",
+        "title": "Find the hidden risk on this board",
+        "description": "<p>Agent,</p>\n<p>Your mission is to find the risk on this board. Your secret weapon? The <strong>LeanKit</strong> filter. </p>\n<p>Use the filter to <strong>Show Only </strong>cards that are <strong>Critical Priotity,</strong> but are also <strong>Blocked.</strong></p>\n<p><a href=\"https://success.planview.com/Planview_LeanKit/Cards/Managing_Cards/Filter_Cards_on_a_Board\">Learn More about LeanKit's Filter</a></p>",
+        "priority": "high",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": null,
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FE7676",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Identify the problem",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614606",
+          "index": 0,
+          "laneClassType": "active",
+          "laneType": "untyped",
+          "orientation": "vertical",
+          "title": "Ready to Start",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614584",
+          "title": "Defect",
+          "cardColor": "#FE7676"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669579",
+        "index": 0,
+        "version": "1",
+        "title": "The ? right above me means...",
+        "description": "<p>... that this LeanKit<strong> lane</strong> ( or vertical column ) represents a <strong>Connected Card Done Lane. </strong></p>\n<p>You can read more about how LeanKit lets you connect cards across multiple boards in our <a href=\"https://success.planview.com/Planview_LeanKit/Cards/Connections/About_Card_Connections\">LeanKit Knowledge Base</a>.</p>\n<p> </p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": "2021-04-02T22:48:31Z",
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "Click for more info",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614612",
+          "index": 3,
+          "laneClassType": "active",
+          "laneType": "completed",
+          "orientation": "vertical",
+          "title": "Recently Finished",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669580",
+        "index": 1,
+        "version": "2",
+        "title": "For more info on how to get started with LeanKit",
+        "description": "<p>Visit the <a href=\"https://success.planview.com/Planview_LeanKit/Getting_Started/Tutorials/Lesson_1%3A_How_LeanKit_Works_-_The_Concept\">Getting Started</a> section of our Knowledge Base</p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": "2021-04-02T22:48:31Z",
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "More LeanKit Info",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614612",
+          "index": 3,
+          "laneClassType": "active",
+          "laneType": "completed",
+          "orientation": "vertical",
+          "title": "Recently Finished",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      },
+      {
+        "assignedUsers": [],
+        "id": "1551669581",
+        "index": 2,
+        "version": "2",
+        "title": "For more info on Kanban and Lean",
+        "description": "<p>Visit the <a href=\"http://leankit.com/learn/kanban/\">Kanban Learning Center</a> on our website. </p>",
+        "priority": "normal",
+        "size": 0,
+        "plannedStart": null,
+        "plannedFinish": null,
+        "actualFinish": "2021-04-02T22:48:31Z",
+        "actualStart": "2021-04-02T22:48:31Z",
+        "createdOn": "2021-04-02T22:48:31Z",
+        "archivedOn": null,
+        "updatedOn": "2021-04-02T22:48:31Z",
+        "movedOn": "2021-04-02T22:48:31Z",
+        "tags": [],
+        "containingCardId": null,
+        "color": "#FFFFFF",
+        "iconPath": null,
+        "customIconLabel": "Class of Service",
+        "customIcon": null,
+        "blockedStatus": {
+          "isBlocked": false,
+          "reason": null,
+          "date": null
+        },
+        "board": {
+          "id": "1551614578",
+          "title": "Welcome To LeanKit",
+          "version": "40",
+          "isArchived": false
+        },
+        "customId": {
+          "value": "More Kanban Info",
+          "prefix": null,
+          "url": null
+        },
+        "externalLinks": [],
+        "lane": {
+          "cardLimit": 0,
+          "description": null,
+          "id": "1551614612",
+          "index": 3,
+          "laneClassType": "active",
+          "laneType": "completed",
+          "orientation": "vertical",
+          "title": "Recently Finished",
+          "taskBoard": null
+        },
+        "type": {
+          "id": "1551614582",
+          "title": "LeanKit Information",
+          "cardColor": "#FFFFFF"
+        },
+        "taskBoardStats": null
+      }
+    ],
+    "pageMeta": {
+      "totalRecords": 28,
+      "offset": 0,
+      "limit": 200,
+      "startRow": 1,
+      "endRow": 28
+    }
+  }

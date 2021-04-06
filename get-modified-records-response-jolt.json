@@ -1,0 +1,63 @@
+[
+    {
+      "operation": "shift",
+      "spec": {
+        "cards": {
+          "*": {
+            "id": "result.[&1].id",
+            "board": {
+              "id": "result.[&2].fields.&1"
+            },
+            "lane": {
+              "id": "result.[&2].fields.&1"
+            },
+            "updatedBy": {
+              "id": "fields.&1"
+            },
+            "createdBy": {
+              "emailAddress": "fields.&1"
+            },
+            "type": {
+              "id": "result.[&2].fields.&1"
+            },
+            "blockedStatus": {
+              "isBlocked": "result.[&2].fields.&",
+              "reason": "result.[&2].fields.blocked-&",
+              "date": "result.[&2].fields.blocked-&"
+            },
+            "*": "result.[&1].fields.&"
+          }
+        }
+      }
+    }, {
+      "operation": "modify-overwrite-beta",
+      "spec": {
+        "result": {
+          "*": {
+            "id": "=toString"
+          }
+        },
+        "totalrecords": "=size(@(1,result))"
+      }
+  },
+    {
+      "operation": "default",
+      "spec": {
+        "totalrecords": 0,
+        "result": []
+      }
+   },
+    {
+      "operation": "modify-default-beta",
+      "spec": {
+        "result": {
+          "*": {
+            "fields?": {
+              "id": "@(2,id)"
+            }
+          }
+        }
+      }
+   }
+  ]
+  

@@ -1,0 +1,31 @@
+[
+    {
+      "operation": "shift",
+      "spec": {
+        "fields": {
+          "*": {
+            "$": "[#2].path",
+            "@": "[#2].value"
+          }
+        }
+      }
+    },
+    {
+      "operation": "modify-overwrite-beta",
+      "spec": {
+        "*": {
+          "path": "=concat('/',@(1,path))"
+        }
+      }
+    }
+    ,
+    {
+      "operation": "default",
+      "spec": {
+        "*": {
+          "op": "replace"
+        }
+      }
+    }
+  ]
+  

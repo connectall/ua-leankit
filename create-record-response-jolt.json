@@ -1,0 +1,17 @@
+[
+    {
+      "operation": "shift",
+      "spec": {
+        "id": "id"
+      }
+    },
+    {
+      "operation": "modify-default-beta",
+      "spec": {
+        "fields": {
+          "id": "@(2,id)"
+        }
+      }
+    }
+  ]
+  

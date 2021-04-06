@@ -1,0 +1,44 @@
+[
+    {
+      "operation": "shift",
+      "spec": {
+        "id": "id",
+        "board": {
+          "id": "fields.&1"
+        },
+        "lane": {
+          "id": "fields.&1"
+        },
+        "updatedBy": {
+          "id": "fields.&1"
+        },
+        "createdBy": {
+          "emailAddress": "fields.&1"
+        },
+        "updatedBy": {
+          "emailAddress": "fields.&1"
+        },
+        "blockedStatus": {
+          "isBlocked": "fields.&",
+          "reason": "fields.blocked-&",
+          "date": "fields.blocked-&"
+        },
+        "*": "fields.&"
+      }
+    }, {
+      "operation": "modify-overwrite-beta",
+      "spec": {
+        "id": "=toString"
+      }
+  },
+  
+    {
+      "operation": "modify-default-beta",
+      "spec": {
+        "fields?": {
+          "id": "@(2,id)"
+        }
+      }
+   }
+  ]
+  

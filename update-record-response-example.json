@@ -1,0 +1,79 @@
+{
+    "actualFinish": null,
+    "actualStart": null,
+    "plannedStart": null,
+    "plannedFinish": null,
+    "archivedOn": null,
+    "blockedStatus": {
+        "reason": null,
+        "date": null,
+        "isBlocked": false
+    },
+    "createdBy": {
+        "id": "1551294979",
+        "emailAddress": "sbhaskara@connectall.com",
+        "fullName": "Sharath Bhaskara",
+        "avatar": "https://sbhaskara-ca.leankit.com/avatar/show/1551294979/?s=25"
+    },
+    "updatedBy": {
+        "id": "1551294979",
+        "emailAddress": "sbhaskara@connectall.com",
+        "fullName": "Sharath Bhaskara",
+        "avatar": "https://sbhaskara-ca.leankit.com/avatar/show/1551294979/?s=25"
+    },
+    "movedBy": null,
+    "archivedBy": null,
+    "board": {
+        "id": "1551614578",
+        "title": "Welcome To LeanKit",
+        "version": "42",
+        "isArchived": false
+    },
+    "customIcon": null,
+    "customIconLabel": "Class of Service",
+    "color": "#FFFFFF",
+    "iconPath": null,
+    "createdOn": "2021-04-06T19:09:14Z",
+    "description": null,
+    "customId": {
+        "value": null,
+        "prefix": null,
+        "url": null
+    },
+    "externalLinks": [],
+    "id": "1552793968",
+    "index": 2,
+    "lane": {
+        "cardLimit": 0,
+        "description": null,
+        "id": "1551614593",
+        "index": 0,
+        "laneClassType": "backlog",
+        "laneType": "ready",
+        "orientation": "vertical",
+        "title": "New Requests",
+        "taskBoard": null
+    },
+    "updatedOn": "2021-04-06T19:16:42Z",
+    "movedOn": "2021-04-06T19:09:14Z",
+    "priority": "normal",
+    "size": 0,
+    "tags": [],
+    "title": "updated card title in Postman",
+    "version": "2",
+    "type": {
+        "id": "1551614582",
+        "title": "LeanKit Information",
+        "cardColor": "#FFFFFF"
+    },
+    "taskBoardStats": null,
+    "subscriptionId": null,
+    "commentsCount": 0,
+    "childCommentsCount": 0,
+    "assignedUsers": [],
+    "attachments": [],
+    "comments": [],
+    "parentCards": [],
+    "customFields": [],
+    "connectedCardStats": null
+}
