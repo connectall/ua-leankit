@@ -1,2 +1,2 @@
-# connectall-leankit-planview-adapter
+# ua-leankit
 Leankit Planview adapter
